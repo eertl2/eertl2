@@ -5,7 +5,7 @@ I'm currently a computer science major at the University of Wisconsin Madison. T
 <div align="center">
 <a href="https://www.linkedin.com/in/eric-ertl-40a0751b4"><img alt="LinkedIn" src="https://img.shields.io/badge/Eric Ertl-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ertleri19@gmail.com@gmail.com"><img alt="Email" src="https://img.shields.io/badge/ertleri19@gmail.com@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="./Resume.pdf.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume_(last_updated)-Jan 2021-green"/></a>
+<a href="./Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume_(last_updated)-Jan 2021-green"/></a>
 </div><br/>
 
 <!--
